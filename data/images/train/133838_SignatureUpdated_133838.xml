@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>133838_SignatureUpdated_133838</filename>
+  <path>C:\Users\appu\Desktop\images\133838_SignatureUpdated_133838.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4160</width>
+    <height>3120</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>signature</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1679</xmin>
+      <ymin>672</ymin>
+      <xmax>2542</xmax>
+      <ymax>2603</ymax>
+    </bndbox>
+  </object>
+</annotation>
